@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Leake Group of "Fancy Microscopy" 
-<!--subtitle: This is where I will tell my friends way too much about me-->
 ---
 
 # Single-molecular cellular biophysics
