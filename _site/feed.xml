@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/feeling-responsive/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/feeling-responsive/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Feeling Responsive</title>
 		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-		<link>http://localhost:4000/feeling-responsive/</link>
-		<atom:link href="http://localhost:4000/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000/feeling-responsive/design/mediaelement_js/</link>
+				<link>http://localhost:4000/design/mediaelement_js/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -42,12 +42,12 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/mediaelement_js/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/mediaelement_js/</guid>
 			</item>
 		
 			<item>
 				<title>Wonderful Typography</title>
-				<link>http://localhost:4000/feeling-responsive/design/typography/typography/</link>
+				<link>http://localhost:4000/design/typography/typography/</link>
 				<pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -479,26 +479,26 @@ element&lt;/td&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/typography/typography/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/typography/typography/</guid>
 			</item>
 		
 			<item>
 				<title>Now with Comments!</title>
-				<link>http://localhost:4000/feeling-responsive/design/comments/</link>
+				<link>http://localhost:4000/design/comments/</link>
 				<pubDate>Sat, 15 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/comments/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/comments/</guid>
 			</item>
 		
 			<item>
 				<title>Responsive Galleries with Foundation</title>
-				<link>http://localhost:4000/feeling-responsive/design/gallery/</link>
+				<link>http://localhost:4000/design/gallery/</link>
 				<pubDate>Mon, 15 Sep 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;{% include gallery %}&lt;/code&gt;.
+				<description>&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;{% include gallery %}&lt;/code&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div&gt;
@@ -589,27 +589,27 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/gallery/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/gallery/</guid>
 			</item>
 		
 			<item>
 				<title>Video Template</title>
-				<link>http://localhost:4000/feeling-responsive/design/video/</link>
+				<link>http://localhost:4000/design/video/</link>
 				<pubDate>Sun, 14 Sep 2014 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -621,12 +621,12 @@ element&lt;/td&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/video/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/video/</guid>
 			</item>
 		
 			<item>
 				<title>Grid &amp; Colors</title>
-				<link>http://localhost:4000/feeling-responsive/design/grid/</link>
+				<link>http://localhost:4000/design/grid/</link>
 				<pubDate>Sat, 13 Sep 2014 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -762,10 +762,10 @@ element&lt;/td&gt;
 
 
 
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://localhost:4000/feeling-responsive/design/portfolio/&quot;&gt;Previous Post in DESIGN&lt;/a&gt;
+&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://localhost:4000/design/portfolio/&quot;&gt;Previous Post in DESIGN&lt;/a&gt;
 
 
-&lt;a class=&quot;button tiny radius&quot; href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Next Post in DESIGN&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;button tiny radius&quot; href=&quot;http://localhost:4000/design/video/&quot;&gt;Next Post in DESIGN&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
 
 
 
@@ -773,12 +773,12 @@ element&lt;/td&gt;
 &lt;/div&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/grid/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/grid/</guid>
 			</item>
 		
 			<item>
 				<title>Show your beautiful work!</title>
-				<link>http://localhost:4000/feeling-responsive/design/portfolio/</link>
+				<link>http://localhost:4000/design/portfolio/</link>
 				<pubDate>Wed, 10 Sep 2014 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -814,12 +814,12 @@ element&lt;/td&gt;
 &lt;!-- /.row --&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/portfolio/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/portfolio/</guid>
 			</item>
 		
 			<item>
 				<title>The Full-Width Page Template</title>
-				<link>http://localhost:4000/feeling-responsive/design/page-fullwidth/</link>
+				<link>http://localhost:4000/design/page-fullwidth/</link>
 				<pubDate>Tue, 19 Aug 2014 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -854,12 +854,12 @@ element&lt;/td&gt;
 &lt;!-- /.row --&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/page-fullwidth/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/page-fullwidth/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post Right Sidebar</title>
-				<link>http://localhost:4000/feeling-responsive/design/post-right-sidebar/</link>
+				<link>http://localhost:4000/design/post-right-sidebar/</link>
 				<pubDate>Thu, 10 Jul 2014 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -879,27 +879,27 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/post-right-sidebar/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/post-right-sidebar/</guid>
 			</item>
 		
 			<item>
 				<title>The Post/Page Template</title>
-				<link>http://localhost:4000/feeling-responsive/design/page/</link>
+				<link>http://localhost:4000/design/page/</link>
 				<pubDate>Thu, 10 Jul 2014 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -919,22 +919,22 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/page/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/page/</guid>
 			</item>
 		
 	</channel>

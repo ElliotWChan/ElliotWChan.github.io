@@ -1,4 +1,4 @@
-I"<p>You just need to choose a template like the <a href="http://localhost:4000/feeling-responsive/design/page/"><code class="highlighter-rouge">page</code></a>- or <a href="http://localhost:4000/feeling-responsive/design/page-fullwidth/"><code class="highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="highlighter-rouge">{% include gallery %}</code>.
+I"<p>You just need to choose a template like the <a href="http://localhost:4000/design/page/"><code class="highlighter-rouge">page</code></a>- or <a href="http://localhost:4000/design/page-fullwidth/"><code class="highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="highlighter-rouge">{% include gallery %}</code>.
 <!--more--></p>
 
 <div>
@@ -89,15 +89,15 @@
   
 
     
-      <li><a href="http://localhost:4000/feeling-responsive/design/gallery/">Templates &middot; <strong>Responsive Galleries with Foundation</strong></a></li>
+      <li><a href="http://localhost:4000/design/gallery/">Templates &middot; <strong>Responsive Galleries with Foundation</strong></a></li>
     
-      <li><a href="http://localhost:4000/feeling-responsive/design/video/">Templates &middot; <strong>Video Template</strong></a></li>
+      <li><a href="http://localhost:4000/design/video/">Templates &middot; <strong>Video Template</strong></a></li>
     
-      <li><a href="http://localhost:4000/feeling-responsive/design/post-right-sidebar/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/design/post-right-sidebar/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
     
-      <li><a href="http://localhost:4000/feeling-responsive/design/page/">Templates &middot; <strong>The Post/Page Template</strong></a></li>
+      <li><a href="http://localhost:4000/design/page/">Templates &middot; <strong>The Post/Page Template</strong></a></li>
     
-      <li><a href="http://localhost:4000/feeling-responsive/design/post-left-sidebar/">Templates &middot; <strong>Page/Post With Left Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/design/post-left-sidebar/">Templates &middot; <strong>Page/Post With Left Sidebar</strong></a></li>
     
 
   

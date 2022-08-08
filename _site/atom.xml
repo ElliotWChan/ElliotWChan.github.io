@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/feeling-responsive/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/feeling-responsive/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/feeling-responsive/</id>
+	<id>http://localhost:4000/</id>
 	<title>Feeling Responsive</title>
-	<updated>2022-08-08T02:50:18+01:00</updated>
+	<updated>2022-08-08T02:52:01+01:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -21,16 +21,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/feeling-responsive/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/feeling-responsive/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/mediaelement_js/</id>
+			<id>http://localhost:4000/design/mediaelement_js/</id>
 			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-			<link href="http://localhost:4000/feeling-responsive/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
+			<link href="http://localhost:4000/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
 			<updated>2015-10-15T00:00:00+01:00</updated>
 
 			
@@ -46,7 +46,7 @@
 				</author>
 			
 			<summary>Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of &lt;em&gt;mediaelement.js&lt;/em&gt;. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -92,9 +92,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/typography/typography/</id>
+			<id>http://localhost:4000/design/typography/typography/</id>
 			<title>Wonderful Typography</title>
-			<link href="http://localhost:4000/feeling-responsive/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
+			<link href="http://localhost:4000/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
 			<updated>2015-08-16T00:00:00+01:00</updated>
 
 			
@@ -110,7 +110,7 @@
 				</author>
 			
 			<summary>&lt;em&gt;Feeling Responsive&lt;/em&gt; uses &lt;a href='https://www.google.com/fonts/specimen/Volkhov'&gt;Volkhov&lt;/a&gt; for headlines, &lt;a href='https://www.google.com/fonts/specimen/Lato'&gt;Lato&lt;/a&gt; for everything else and if you are in need to show some code, it will be in &lt;a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'&gt;Lucida Console&lt;/a&gt; or &lt;a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'&gt;Monaco&lt;/a&gt;.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/typography/typography/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/design/typography/typography/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
@@ -552,9 +552,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/comments/</id>
+			<id>http://localhost:4000/design/comments/</id>
 			<title>Now with Comments!</title>
-			<link href="http://localhost:4000/feeling-responsive/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
+			<link href="http://localhost:4000/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
 			<updated>2015-08-15T00:00:00+01:00</updated>
 
 			
@@ -570,7 +570,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
+			<content type="html" xml:base="http://localhost:4000/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
@@ -585,9 +585,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/gallery/</id>
+			<id>http://localhost:4000/design/gallery/</id>
 			<title>Responsive Galleries with Foundation</title>
-			<link href="http://localhost:4000/feeling-responsive/design/gallery/" rel="alternate" type="text/html" title="Responsive Galleries with Foundation" />
+			<link href="http://localhost:4000/design/gallery/" rel="alternate" type="text/html" title="Responsive Galleries with Foundation" />
 			<updated>2014-09-15T00:00:00+01:00</updated>
 
 			
@@ -603,7 +603,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and &lt;a href='http://foundation.zurb.com/docs/components/clearing.html'&gt;Clearing Lightbox&lt;/a&gt;.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/gallery/">&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;{% include gallery %}&lt;/code&gt;.
+			<content type="html" xml:base="http://localhost:4000/design/gallery/">&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;{% include gallery %}&lt;/code&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div&gt;
@@ -694,15 +694,15 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -721,9 +721,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/video/</id>
+			<id>http://localhost:4000/design/video/</id>
 			<title>Video Template</title>
-			<link href="http://localhost:4000/feeling-responsive/design/video/" rel="alternate" type="text/html" title="Video Template" />
+			<link href="http://localhost:4000/design/video/" rel="alternate" type="text/html" title="Video Template" />
 			<updated>2014-09-14T00:00:00+01:00</updated>
 
 			
@@ -739,7 +739,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>If you want to show videos in a large manner, the video template is the right choice.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/video/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/design/video/">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
 
@@ -761,9 +761,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/grid/</id>
+			<id>http://localhost:4000/design/grid/</id>
 			<title>Grid &amp; Colors</title>
-			<link href="http://localhost:4000/feeling-responsive/design/grid/" rel="alternate" type="text/html" title="Grid &amp; Colors" />
+			<link href="http://localhost:4000/design/grid/" rel="alternate" type="text/html" title="Grid &amp; Colors" />
 			<updated>2014-09-13T00:00:00+01:00</updated>
 
 			
@@ -779,7 +779,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid. To optimize the size of your images, you find the correct dimensions beneath. Further below you find the &lt;a href='#color-scheme-and-colors-codes'&gt;colorscheme and colors&lt;/a&gt; used for &lt;em&gt;Feeling Responsive&lt;/em&gt; and their color codes.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/grid/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
+			<content type="html" xml:base="http://localhost:4000/design/grid/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;show-for-small&quot;&gt;
@@ -913,10 +913,10 @@ element&lt;/td&gt;
 
 
 
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://localhost:4000/feeling-responsive/design/portfolio/&quot;&gt;Previous Post in DESIGN&lt;/a&gt;
+&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://localhost:4000/design/portfolio/&quot;&gt;Previous Post in DESIGN&lt;/a&gt;
 
 
-&lt;a class=&quot;button tiny radius&quot; href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Next Post in DESIGN&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;button tiny radius&quot; href=&quot;http://localhost:4000/design/video/&quot;&gt;Next Post in DESIGN&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
 
 
 
@@ -934,9 +934,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/portfolio/</id>
+			<id>http://localhost:4000/design/portfolio/</id>
 			<title>Show your beautiful work!</title>
-			<link href="http://localhost:4000/feeling-responsive/design/portfolio/" rel="alternate" type="text/html" title="Show your beautiful work!" />
+			<link href="http://localhost:4000/design/portfolio/" rel="alternate" type="text/html" title="Show your beautiful work!" />
 			<updated>2014-09-10T00:00:00+01:00</updated>
 
 			
@@ -952,7 +952,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>With &lt;em&gt;Feeling Responsive&lt;/em&gt; you don't need a special portfolio template. Just check out the great possibilities of the &lt;a href='http://foundation.zurb.com/docs/components/grid.html'&gt;foundation grid&lt;/a&gt; and experiment with it.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/portfolio/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/design/portfolio/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row t60&quot;&gt;
     &lt;div class=&quot;medium-6 columns b30&quot;&gt;
@@ -996,9 +996,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/page-fullwidth/</id>
+			<id>http://localhost:4000/design/page-fullwidth/</id>
 			<title>The Full-Width Page Template</title>
-			<link href="http://localhost:4000/feeling-responsive/design/page-fullwidth/" rel="alternate" type="text/html" title="The Full-Width Page Template" />
+			<link href="http://localhost:4000/design/page-fullwidth/" rel="alternate" type="text/html" title="The Full-Width Page Template" />
 			<updated>2014-08-19T00:00:00+01:00</updated>
 
 			
@@ -1014,7 +1014,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>The full-width page format gives you all the space you need to show your content using the grid.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/page-fullwidth/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
+			<content type="html" xml:base="http://localhost:4000/design/page-fullwidth/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
@@ -1057,9 +1057,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/post-right-sidebar/</id>
+			<id>http://localhost:4000/design/post-right-sidebar/</id>
 			<title>Page/Post Right Sidebar</title>
-			<link href="http://localhost:4000/feeling-responsive/design/post-right-sidebar/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
+			<link href="http://localhost:4000/design/post-right-sidebar/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
 			<updated>2014-07-10T00:00:00+01:00</updated>
 
 			
@@ -1075,7 +1075,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>This is an example of page/post with a sidebar on the right.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/post-right-sidebar/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+			<content type="html" xml:base="http://localhost:4000/design/post-right-sidebar/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
@@ -1093,15 +1093,15 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -1120,9 +1120,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/design/page/</id>
+			<id>http://localhost:4000/design/page/</id>
 			<title>The Post/Page Template</title>
-			<link href="http://localhost:4000/feeling-responsive/design/page/" rel="alternate" type="text/html" title="The Post/Page Template" />
+			<link href="http://localhost:4000/design/page/" rel="alternate" type="text/html" title="The Post/Page Template" />
 			<updated>2014-07-10T00:00:00+01:00</updated>
 
 			
@@ -1136,7 +1136,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>The default template for posts and pages aligns the page beautifully in the middle. &lt;strong&gt;But&lt;/strong&gt; you can customize posts/pages easily via switches in the front matter to &lt;em&gt;get a sidebar&lt;/em&gt; and/or to &lt;em&gt;turn off meta-information&lt;/em&gt; at the end of the page like categories, tags and dates.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/design/page/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+			<content type="html" xml:base="http://localhost:4000/design/page/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
@@ -1154,15 +1154,15 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
