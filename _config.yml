@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Elliot Chan'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -43,7 +43,7 @@ urlimg: 'https://ElliotWChan.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: logo.png
+#logo: logo.png
 
 # Plugins
 plugins:
@@ -159,7 +159,7 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32                        : 'favicon.ico'
-touch-icon-192x192                   : 'touch-icon-192x192.png'
+#touch-icon-192x192                   : 'touch-icon-192x192.png'
 msapplication_tilecolor              : '#fabb00'
 
 

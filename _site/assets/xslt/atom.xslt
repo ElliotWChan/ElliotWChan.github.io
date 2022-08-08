@@ -46,7 +46,7 @@
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Feeling Responsive">
+	<meta property="og:site_name" content="Elliot Chan">
 	
 	
 
@@ -69,7 +69,7 @@
 
 	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon.ico">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+	
 
 	
 
@@ -106,7 +106,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> Elliot Chan</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -334,8 +334,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="http://localhost:4000/" title="Elliot Chan – A Flexible Theme for Jekyll">
+				<img src="http://localhost:4000/assets/img/" alt="Elliot Chan – A Flexible Theme for Jekyll">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
