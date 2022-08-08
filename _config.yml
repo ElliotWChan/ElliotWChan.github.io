@@ -21,12 +21,12 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Elliot
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'https://phlow.github.io'
-#baseurl: '/feeling-responsive'
+url: 'https://ElliotWChan.github.io'
+baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -35,6 +35,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
 #
+urlimg: 'https://ElliotWChan.github.io/images/'
+
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
@@ -120,7 +122,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Elliot     # Default author for posts
 
 
 
