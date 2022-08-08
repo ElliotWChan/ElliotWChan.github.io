@@ -40,13 +40,12 @@ header:
   <u>Chan&nbsp;EW</u>,
   Leake&nbsp;MC,
   Noy&nbsp;A
-  2022\\
+  (2022)\\
   "Structural interplay between DNA-shape protein recognition and supercoiling:
   the case of IHF"\\
-  *bioRxiv*
-  2022.03.31.486518\\
+  *bioRxiv*\\
   [doi:10.1101/2022.03.31.486518](https://doi.org/10.1101/2022.03.31.486518)\\
-  **Preprint**{:.label .label-meta}&nbsp;
+  **Preprint**&nbsp;
 * Jalal&nbsp;ASB,
   Tran&nbsp;NT,
   Stevenson&nbsp;CW,
@@ -56,7 +55,7 @@ header:
   Noy&nbsp;A,
   Lawson&nbsp;DM,
   Le&nbsp;TBK
-  2020\\
+  (2020)\\
   "Diversification of DNA-Binding Specificity by Permissive and Specificity-Switching Mutations in the ParB/Noc Protein Family"
   *Cell&nbsp;Reports&nbsp;*
   **32**

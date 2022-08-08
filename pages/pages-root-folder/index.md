@@ -37,8 +37,8 @@ permalink: /index.html
     <div class="flex-column-left">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                        {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <p>
                 {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
@@ -50,7 +50,6 @@ permalink: /index.html
     </div><!-- /.row -->
     </div>
     <div class="flex-column-right twitter-embed">
-      <h2>Tweets</h2>
       <a class="twitter-timeline" data-width="490" data-tweet-limit="3"
           data-link-color="#30b7f3" data-chrome="noheader nofooter noborders"
           href="https://twitter.com/ElliotWChan?ref_src=twsrc%5Etfw">
