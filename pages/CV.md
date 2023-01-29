@@ -11,7 +11,7 @@ header:
 
 * **PhD Physics**\\
   *University of York &bull; 2019--2023 (expected)*\\
-  **Supervisors:** Agnes Noy, Mark Leake
+  **Supervisors:** Agnes Noy, Mark Leake\\
   **Thesis:**
   "Mechanisms Behind Protein-DNA Interactions Unveiled with Molecular Simulation and Atomic Force Microscopy"
 * **BSc (Hons) Theoretical Physics**\\
