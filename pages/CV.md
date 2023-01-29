@@ -7,7 +7,7 @@ header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
 
-## Education
+# Education
 
 * **PhD Physics**\\
   *University of York &bull; 2019--2023 (expected)*\\
@@ -17,7 +17,7 @@ header:
   **Dissertation:**
   "Single ion plasma simulation applying multiple different magnetic confinement techniques"
 
-### Funding and Awards
+# Funding and Awards
  * **W.W. Smith Scholarship**,\\
   *University of York &bull; September 2021*
  * **Royce Equipment Access Scheme**,\\
@@ -33,7 +33,7 @@ header:
   Physics Awards 2019\\
   *University of York &bull; May 2019*
 
-## Publications
+# Publications
 {:#publications}
 
 * Watson&nbsp;GD,
@@ -62,7 +62,7 @@ header:
   107928\\
   [doi:10.1016/j.celrep.2020.107928](https://doi.org/10.1016/j.celrep.2020.107928)
 
-## Talks
+# Talks
 {:#talks}
 
 
@@ -75,7 +75,7 @@ header:
 * Regular Physics of Life Group & Condensed Matter Theory Group meetings\\
   *University of York &bull; 2019--2022*
 
-## Poster presentations
+# Poster presentations
 {:#posters}
 
 ### External
@@ -98,7 +98,7 @@ header:
   Modelling the Ecology of Complex Communities**\\
   *University of York &bull; 26 September 2019*
 
-## Teaching
+# Teaching
 {:#teaching}
 
 * **High Performance Computing** (practical demonstration)\\

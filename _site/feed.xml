@@ -9,43 +9,6 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000/design/mediaelement_js/</link>
-				<pubDate>Thu, 15 Oct 2015 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;To use the player just use some HTML5-magic like…&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;audio&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://path-to-file.com/music.mp3&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;audio/mp3&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;controls=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;controls&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/audio&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;All possible functions and how to use &lt;em&gt;mediaelement.js&lt;/em&gt; is well-documented on the &lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;players website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;music-from-all-around-the-world&quot;&gt;»Music From All Around The World«&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;»Music From All Around The World«&lt;/a&gt; is a compilation curated by Jeannette Corneille and Moritz “mo.” Sauer for &lt;a href=&quot;http://phlow-magazine.com/&quot;&gt;Phlow-Magazine.com&lt;/a&gt;. Cover &lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;Artwork designed by Jeannette Corneille&lt;/a&gt;. All tracks were released under a &lt;a href=&quot;http://jcorneille.de/&quot;&gt;creative commons licence&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;b-ju---philly-run&quot;&gt;B-Ju - »Philly Run«&lt;/h3&gt;
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;h3 id=&quot;comfort-fit---freeze-the-cut&quot;&gt;Comfort Fit - »Freeze The Cut«&lt;/h3&gt;
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;h3 id=&quot;the-black-atlantic---dandelion&quot;&gt;The Black Atlantic - »Dandelion«&lt;/h3&gt;
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/mediaelement_js/</guid>
-			</item>
-		
-			<item>
 				<title>Wonderful Typography</title>
 				<link>http://localhost:4000/design/typography/typography/</link>
 				<pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
@@ -495,6 +458,305 @@ element&lt;/td&gt;
 			</item>
 		
 			<item>
+				<title>No Header</title>
+				<link>http://localhost:4000/design/no-header/</link>
+				<pubDate>Tue, 11 Aug 2015 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/no-header/</guid>
+			</item>
+		
+			<item>
+				<title>No Header but Article Image</title>
+				<link>http://localhost:4000/design/no-header-but-image/</link>
+				<pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
+image:
+    title: unsplash_eagle.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/no-header-but-image/</guid>
+			</item>
+		
+			<item>
+				<title>Header With Text</title>
+				<link>http://localhost:4000/design/header-with-text/</link>
+				<pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+				<description>&lt;!--more--&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    title: header with text
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/header-with-text/</guid>
+			</item>
+		
+			<item>
+				<title>Header With Logo Only</title>
+				<link>http://localhost:4000/design/header-logo-only/</link>
+				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;No front matter code needed.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/header-logo-only/</guid>
+			</item>
+		
+			<item>
+				<title>Header Image With Background Color</title>
+				<link>http://localhost:4000/design/header-image-color/</link>
+				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image: &quot;header_unsplash_2-970x.jpg&quot;
+    background-color: &quot;#fabb00&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/header-image-color/</guid>
+			</item>
+		
+			<item>
+				<title>Header with a Full-Width-Image</title>
+				<link>http://localhost:4000/design/header-full-width-image/</link>
+				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/header-full-width-image/</guid>
+			</item>
+		
+			<item>
+				<title>Header Image With Pattern</title>
+				<link>http://localhost:4000/design/header-image-pattern/</link>
+				<pubDate>Wed, 08 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image:  &quot;header_unsplash_2-970x.jpg&quot;
+    pattern:  &quot;pattern_concrete.jpg&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/design/header-image-pattern/</guid>
+			</item>
+		
+			<item>
 				<title>Responsive Galleries with Foundation</title>
 				<link>http://localhost:4000/design/gallery/</link>
 				<pubDate>Mon, 15 Sep 2014 00:00:00 +0100</pubDate>
@@ -507,42 +769,42 @@ element&lt;/td&gt;
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-1.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-1-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-1.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-1-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-2-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-2-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://ElliotWChan.github.io/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 	&lt;/ul&gt;
 &lt;/div&gt;
@@ -605,336 +867,6 @@ element&lt;/td&gt;
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/design/gallery/</guid>
-			</item>
-		
-			<item>
-				<title>Video Template</title>
-				<link>http://localhost:4000/design/video/</link>
-				<pubDate>Sun, 14 Sep 2014 00:00:00 +0100</pubDate>
-				<description>&lt;!--more--&gt;
-
-&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/video/</guid>
-			</item>
-		
-			<item>
-				<title>Grid &amp; Colors</title>
-				<link>http://localhost:4000/design/grid/</link>
-				<pubDate>Sat, 13 Sep 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;show-for-small&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-&lt;h3&gt;Small Grid&lt;/h3&gt;
-        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-    &lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;small-6 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/470x264/6b6351/e1dcd7&amp;amp;text=2+Columns&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;small-6 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/470x264/e05a10/e1e75e&amp;amp;text=2+Columns&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;show-for-large-up&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;small-12 columns&quot;&gt;
-            &lt;h2&gt;Large Displays&lt;/h2&gt;
-            &lt;h3&gt;Large Displays Two Columns&lt;/h3&gt;
-        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-    &lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;large-6 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/470x264/6b6351/e1dcd7&amp;amp;text=Width+470+Pixel&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;large-6 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/470x264/e05a10/e1e75e&amp;amp;text=Width+470+Pixel&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-        &lt;h3&gt;Large Displays Three Columns&lt;/h3&gt;
-    &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;large-4 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/303x170/6b6351/e1dcd7&amp;amp;text=Width+303+Pixel&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;large-4 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/303x170/e05a10/e1e75e&amp;amp;text=Width+303+Pixel&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;large-4 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/303x170/fabb00/771e1e&amp;amp;text=Width+303+Pixel&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-        &lt;h3&gt;Large Displays Four Columns&lt;/h3&gt;
-    &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;large-3 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/220x141/6b6351/e1dcd7&amp;amp;text=Width+220+Pixel&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;large-3 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/220x141/e05a10/e1e75e&amp;amp;text=Width+220+Pixel&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;large-3 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/220x141/fabb00/771e1e&amp;amp;text=Width+220+Pixel&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;large-3 columns&quot;&gt;
-      &lt;img src=&quot;http://placehold.it/220x141/00792c/acca57&amp;amp;text=Width+220+Pixel&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- /.hide-for-small --&gt;
-
-&lt;div class=&quot;row t90&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-        &lt;h2&gt;Color Scheme and Colors Codes&lt;/h2&gt;
-        &lt;p class=&quot;teaser&quot;&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; uses strong colors in combination with grey colors.&lt;/p&gt;
-        &lt;h3&gt;Colours&lt;/h3&gt;
-    &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #45B29D; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #334D5C; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #A1D044; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #EFC94C; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #E27A3F; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #DF4949; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Grey Scale&lt;/h3&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #E4E4E4; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #D7D7D7; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #CBCBCB; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #BEBEBE; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #A4A4A4; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #979797; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row t30&quot;&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #8B8B8B; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #7E7E7E; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #646464; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #575757; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #4B4B4B; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #3E3E3E; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row t30&quot;&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #313131; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #242424; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns&quot;&gt;&lt;div style=&quot;background: #171717; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;small-2 columns end&quot;&gt;&lt;div style=&quot;background: #0B0B0B; height: 137px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id=&quot;bottom&quot; class=&quot;row t30&quot;&gt;
-    &lt;div class=&quot;small-12 columns&quot;&gt;
-       
-
-
-
-
-
-
-
-
-&lt;a class=&quot;left button tiny radius icon-chevron-left r15&quot; href=&quot;http://localhost:4000/design/portfolio/&quot;&gt;Previous Post in DESIGN&lt;/a&gt;
-
-
-&lt;a class=&quot;button tiny radius&quot; href=&quot;http://localhost:4000/design/video/&quot;&gt;Next Post in DESIGN&lt;span class=&quot;icon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;
-
-
-
-    &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
-&lt;/div&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/grid/</guid>
-			</item>
-		
-			<item>
-				<title>Show your beautiful work!</title>
-				<link>http://localhost:4000/design/portfolio/</link>
-				<pubDate>Wed, 10 Sep 2014 00:00:00 +0100</pubDate>
-				<description>&lt;!--more--&gt;
-
-&lt;div class=&quot;row t60&quot;&gt;
-    &lt;div class=&quot;medium-6 columns b30&quot;&gt;
-        &lt;img src=&quot;https://ElliotWChan.github.io/images/webdesign_screenshot_jcorneille.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;p&gt;Website: &lt;a href=&quot;http://jcorneille.de&quot;&gt;Grafik Design Jeannette Corneille&lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;&lt;!-- /.medium-6.columns --&gt;
-
-    &lt;div class=&quot;medium-6 columns b30&quot;&gt;
-        &lt;img src=&quot;https://ElliotWChan.github.io/images/webdesign_screenshot_phlow.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;p&gt;Website: &lt;a href=&quot;https://phlow.de/&quot;&gt;Phlow.de&lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;&lt;!-- /.medium-6.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-&lt;div class=&quot;row t30&quot;&gt;
-    &lt;div class=&quot;medium-4 columns&quot;&gt;
-        &lt;img src=&quot;https://ElliotWChan.github.io/images/webdesign_screenshot_andersneu.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;p&gt;Website: &lt;a href=&quot;https://andersneu.de/&quot;&gt;andersneu.de&lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-    &lt;div class=&quot;medium-4 columns&quot;&gt;
-        &lt;img src=&quot;https://ElliotWChan.github.io/images/webdesign_screenshot_mosonic.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;p&gt;Website: &lt;a href=&quot;https://mosonic.net/&quot;&gt;mosonic.net&lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-    &lt;div class=&quot;medium-4 columns&quot;&gt;
-        &lt;img src=&quot;https://ElliotWChan.github.io/images/webdesign_screenshot_moritz_sauer.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;p&gt;Website: &lt;a href=&quot;https://moritz.sauer.io/&quot;&gt;Webdesign, SEO, Music&lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/portfolio/</guid>
-			</item>
-		
-			<item>
-				<title>The Full-Width Page Template</title>
-				<link>http://localhost:4000/design/page-fullwidth/</link>
-				<pubDate>Tue, 19 Aug 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
-    &lt;img src=&quot;https://ElliotWChan.github.io/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
-      &lt;img src=&quot;https://ElliotWChan.github.io/images/gallery-example-5.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
-      &lt;img src=&quot;https://ElliotWChan.github.io/images/gallery-example-6.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;medium-8 columns t30&quot;&gt;
-    &lt;img src=&quot;https://ElliotWChan.github.io/images/gallery-example-7.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-
-    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
-      &lt;img src=&quot;https://ElliotWChan.github.io/images/gallery-example-3.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img class=&quot;t30&quot; src=&quot;https://ElliotWChan.github.io/images/gallery-example-8.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/page-fullwidth/</guid>
-			</item>
-		
-			<item>
-				<title>Page/Post Right Sidebar</title>
-				<link>http://localhost:4000/design/post-right-sidebar/</link>
-				<pubDate>Thu, 10 Jul 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/post-right-sidebar/</guid>
-			</item>
-		
-			<item>
-				<title>The Post/Page Template</title>
-				<link>http://localhost:4000/design/page/</link>
-				<pubDate>Thu, 10 Jul 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/page/</guid>
 			</item>
 		
 	</channel>
