@@ -7,11 +7,11 @@
   side: right
 
 - title: Research
-  url: "/research/"
+  url: "/blog/"
   side: right
   dropdown:
   - title: "Research Archive"
-    url: "/research/archive/"
+    url: "/blog/archive/"
 
 - title: "Contact"
   url: "/contact/"
