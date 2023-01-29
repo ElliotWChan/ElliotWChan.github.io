@@ -12,6 +12,8 @@ header:
 * **PhD Physics**\\
   *University of York &bull; 2019--2023 (expected)*\\
   **Supervisors:** Agnes Noy, Mark Leake
+  **Thesis:**
+  "Mechanisms Behind Protein-DNA Interactions Unveiled with Molecular Simulation and Atomic Force Microscopy"
 * **BSc (Hons) Theoretical Physics**\\
   *University of York &bull; 2016--2019*\\
   **Dissertation:**
@@ -43,9 +45,10 @@ header:
   (2022)\\
   "Structural interplay between DNA-shape protein recognition and supercoiling:
   the case of IHF"\\
-  *bioRxiv*\\
-  [doi:10.1101/2022.03.31.486518](https://doi.org/10.1101/2022.03.31.486518)\\
-  **Preprint**&nbsp;
+  *Computational&nbsp;and&nbsp;Structural&nbsp;Biotechnology&nbsp;Journal&nbsp*
+  **20**
+  5264-5274\\
+  [doi:10.1016/j.csbj.2022.09.020](https://doi.org/10.1016/j.csbj.2022.09.020)
 * Jalal&nbsp;ASB,
   Tran&nbsp;NT,
   Stevenson&nbsp;CW,
