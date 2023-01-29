@@ -70,21 +70,17 @@ header:
 
 ### External
 * **Durham BSI ECR Symposium**\\
-  *Durham University &bull; January 2023*\\
-  "Binding, Bending, Bridging: The dynamics of DNA-protein interactions"
+  *Durham University &bull; January 2023*
 
 
 ### Internal
 * **Physics Postgraduate Conference 2022**\\
-  *University of York &bull; September 2022*\\
-  "Binding, Bending, Bridging: The dynamics of DNA-protein interactions"\\
+  *University of York &bull; September 2022*
   Runner up: *Best Talk*
 * **Physics Postgraduate Conference 2021**\\
-  *University of York &bull; September 2021*\\
-  "Binding, Bending, Bridging: The dynamics of DNA-protein interactions"
+  *University of York &bull; September 2021*
 * **BPSInet Summer Research Symposium: Interdisciplinary Science at York**\\
-  *University of York &bull; September 2021*\\
-  "Binding, Bending, Bridging: The dynamics of DNA-protein interactions"
+  *University of York &bull; September 2021*
 * Regular Physics of Life Group & Condensed Matter Theory Group meetings\\
   *University of York &bull; 2019--2023*
 
