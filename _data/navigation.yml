@@ -7,7 +7,7 @@
   side: right
 
 - title: Research
-  url: "/Research/"
+  url: "/research/"
   side: right
   dropdown:
   - title: "Research Archive"
