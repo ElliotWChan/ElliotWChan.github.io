@@ -10,8 +10,8 @@
   url: "/Research/"
   side: right
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Research Archive"
+    url: "/research/archive/"
 
 - title: "Contact"
   url: "/contact/"
