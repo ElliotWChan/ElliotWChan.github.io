@@ -45,7 +45,7 @@ header:
   (2022)\\
   "Structural interplay between DNA-shape protein recognition and supercoiling:
   the case of IHF"\\
-  *Computational&nbsp;and&nbsp;Structural&nbsp;Biotechnology&nbsp;Journal&nbsp*
+  *Computational&nbsp;and&nbsp;Structural&nbsp;Biotechnology&nbsp;Journal&nbsp;*
   **20**
   5264-5274\\
   [doi:10.1016/j.csbj.2022.09.020](https://doi.org/10.1016/j.csbj.2022.09.020)
