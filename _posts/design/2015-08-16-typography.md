@@ -8,7 +8,6 @@ header:
     image: parb.png
     background-color: "#262930"
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 image:
     thumb: parb.png
     homepage: parb.png
