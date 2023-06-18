@@ -9,9 +9,9 @@
 - title: Research
   url: "/blog/"
   side: right
-  dropdown:
-  - title: "Research Archive"
-    url: "/blog/archive/"
+#  dropdown:
+#  - title: "Research Archive"
+#    url: "/blog/archive/"
 
 #- title: "Contact"
   #url: "/contact/"

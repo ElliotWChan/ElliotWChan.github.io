@@ -182,21 +182,10 @@
           
             
             
-
               <li class="divider"></li>
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/blog/">Research</a>
+              <li><a  href="http://localhost:4000/blog/">Research</a></li>
 
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/blog/archive/">Research Archive</a></li>
-                    
-                  </ul>
-
-              </li>
+            
             
           
         
