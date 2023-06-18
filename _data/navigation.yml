@@ -13,9 +13,9 @@
   - title: "Research Archive"
     url: "/blog/archive/"
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+  #url: "/contact/"
+  #side: right
 
 
 #- title: Getting Started
