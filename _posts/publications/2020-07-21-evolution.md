@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Molecular protein-DNA evolution"
 subheadline: "Publications"
 meta_teaser: "Diversification of DNA-Binding Specificity by Permissive and Specificity-Switching Mutations in the ParB/Noc Protein Family"
-teaser: "<em>Jalal et al. elucidate the molecular basis for how specific protein-DNA interactions can evolve, using ParB and Noc as models."
+teaser: "Jalal et al. elucidate the molecular basis for how specific protein-DNA interactions can evolve, using ParB and Noc as models."
 header:
     image: parb.png
     background-color: "#FFFFFF"

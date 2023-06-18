@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Elliot Chan</title>
-	<updated>2023-06-18T02:15:18+01:00</updated>
+	<updated>2023-06-18T02:24:29+01:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -41,7 +41,7 @@
 					
 				</author>
 			
-			<summary>&lt;em&gt;Watson et al. investigate the active role DNA can play in protein-DNA interactions via supercoiling and how it affects how IHF plays it's architectural roles.</summary>
+			<summary>Watson et al. investigate the active role DNA can play in protein-DNA interactions via supercoiling and how it affects how IHF plays it's architectural roles.</summary>
 			<content type="html" xml:base="http://localhost:4000/publications/IHFSupercoiling/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
@@ -84,7 +84,7 @@
 					
 				</author>
 			
-			<summary>&lt;em&gt;Jalal et al. elucidate the molecular basis for how specific protein-DNA interactions can evolve, using ParB and Noc as models.</summary>
+			<summary>Jalal et al. elucidate the molecular basis for how specific protein-DNA interactions can evolve, using ParB and Noc as models.</summary>
 			<content type="html" xml:base="http://localhost:4000/publications/evolution/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
