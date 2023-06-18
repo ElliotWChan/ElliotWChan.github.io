@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Research Highlights"
-  url: 'http://elliotwchan.github.io/blog/'
+  url: '/blog/'
   image: widget-1-302x182.jpg
   text: 'You can find a list of my research interests and publications here.'
 widget2:
