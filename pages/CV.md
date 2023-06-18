@@ -69,7 +69,7 @@ header:
 {:#talks}
 
 ### External
-* **Physics of Life 2023**\\
+* **[Physics of Life 2023](https://www.physicsoflife.org.uk/physics-of-life-20231.html)**\\
   *Harrogate Convention Centre &bull; March 2023*
 * **Durham BSI ECR Symposium**\\
   *Durham University &bull; January 2023*
