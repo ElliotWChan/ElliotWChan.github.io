@@ -10,7 +10,7 @@
 		
 			<item>
 				<title>DNA bending proteins vs supercoiling</title>
-				<link>http://localhost:4000/design/typography/IHFSupercoiling/</link>
+				<link>http://localhost:4000/publications/IHFSupercoiling/</link>
 				<pubDate>Mon, 19 Sep 2022 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -29,12 +29,12 @@
     &lt;p&gt;GD Watson, EW Chan, MC Leake, A Noy (2022) “Structural interplay between DNA-shape protein recognition and supercoiling: the case of IHF” Comput Struct Biotech J, 20, 5264-5274 https://doi.org/10.1016/j.csbj.2022.09.020&lt;/p&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/design/typography/IHFSupercoiling/</guid>
+				<guid isPermaLink="true">http://localhost:4000/publications/IHFSupercoiling/</guid>
 			</item>
 		
 			<item>
 				<title>Molecular protein-DNA evolution</title>
-				<link>http://localhost:4000/design/typography/evolution/</link>
+				<link>http://localhost:4000/publications/evolution/</link>
 				<pubDate>Tue, 21 Jul 2020 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -53,7 +53,7 @@
     &lt;p&gt;ASB Jalal, NT Tran, CE Stevenson, EW Chan, RL, Xiao Tan, A Noy, DM Lawson, TBK Le (2020). “Diversification of DNA-binding specificity via permissive and specificity-switching mutations in the ParB/Noc protein family” Cell Reports, 32, 107928. https://doi.org/10.1016/j.celrep.2020.107928&lt;/p&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/design/typography/evolution/</guid>
+				<guid isPermaLink="true">http://localhost:4000/publications/evolution/</guid>
 			</item>
 		
 	</channel>

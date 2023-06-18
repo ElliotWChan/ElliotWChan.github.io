@@ -69,13 +69,15 @@ header:
 {:#talks}
 
 ### External
+* **Physics of Life 2023**\\
+  *Harrogate Convention Centre &bull; March 2023*
 * **Durham BSI ECR Symposium**\\
   *Durham University &bull; January 2023*
 
 
 ### Internal
 * **Physics Postgraduate Conference 2022**\\
-  *University of York &bull; September 2022*
+  *University of York &bull; September 2022*\\
   Runner up: *Best Talk*
 * **Physics Postgraduate Conference 2021**\\
   *University of York &bull; September 2021*
