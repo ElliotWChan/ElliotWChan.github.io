@@ -91,10 +91,8 @@ header:
 
 ### External
 
-* **[BBS Biennial Meeting 2022: from Molecular Machines to Materials](https://nuigalwayschoolofchemistry.clr.events/event/132006:british-biophysical-society-biennial-meeting-2022-from-molecular-machines-to-materials)**
-  \\
+* **[BBS Biennial Meeting 2022: from Molecular Machines to Materials](https://nuigalwayschoolofchemistry.clr.events/event/132006:british-biophysical-society-biennial-meeting-2022-from-molecular-machines-to-materials)**\\
   *NUI Galway &bull; 29 June -- 01 July 2022*
-
 * **[Physics of Life Summer School 2022: Interdisciplinary Challenges: from Non-equilibrium Physics to Life Sciences](https://www.physicsoflife.org.uk/physics-of-life-summer-school-2022.html)**\\
 *University of Edinburgh &bull; 25 -- 29 April 2022*
 
@@ -112,23 +110,23 @@ header:
 # Teaching
 {:#teaching}
 
-* **High Performance Computing** (practical demonstration)\\
+* **High Performance Computing** (PhD/MPhys --- Practical Demonstration)\\
   *University of York &bull; 2020--2022*\\
   Provide support and assistance to Masters and PhD students during high performance computing sessions, in which they learn about and program with multiple parallelisation techniques such as openMP and MPI.
-* **Advanced Experimental Laboratory** (practical demonstration)\\
+* **Advanced Experimental Laboratory** (Stage 3 --- Practical Demonstration)\\
   *University of York &bull; 2018--2019*\\
   Supervised, guided, and assisted students as they learn how to perform coarse-grained 
   simulations of DNA minicircles under differing amounts of torsional stress and salt 
   concentrations. Involved teaching introduction to Linux, the AMBER MD software 
-  suite, and concepts analysis techniques used in real research.\\
-* **Computational Quantum Mechanics** (practical demonstration)\\
+  suite, and concepts analysis techniques used in real research. 
+* **Computational Quantum Mechanics** (Stage 3 --- Practical Demonstration)\\
   *University of York &bull; 2018--2019*\\
   Provide support and assistance to third-year students during computational quantum mechanics sessions.
-* **Computational Laboratory** (practical demonstration)\\
+* **Computational Laboratory** (Stage 2 --- Practical Demonstration)\\
   *University of York &bull; 2018--2019*\\
   Supervised, guided, and assisted students develop various programs for
   physical simulation, in Fortran, during second-year computational laboratory.
 * **Problem Class Teaching**\\
     *University of York &bull; 2019--2020*\\
-    * Mathematics II
-    * Nuclear Physics II
+    * Nuclear Physics II (Stage 3)
+    * Mathematics II (Stage 2)
