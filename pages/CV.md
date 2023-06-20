@@ -119,16 +119,16 @@ header:
   *University of York &bull; 2020--2022*\\
   Provide support and assistance to Masters and PhD students during high performance computing sessions, in which they learn about and program with multiple parallelisation techniques such as openMP and MPI.
 * **Advanced Experimental Laboratory** (Stage 3 --- Practical Demonstration)\\
-  *University of York &bull; 2018--2019*\\
+  *University of York &bull; 2021--2022*\\
   Supervised, guided, and assisted students as they learn how to perform coarse-grained 
   simulations of DNA minicircles under differing amounts of torsional stress and salt 
   concentrations. Involved teaching introduction to Linux, the AMBER MD software 
   suite, and concepts analysis techniques used in real research. 
 * **Computational Quantum Mechanics** (Stage 3 --- Practical Demonstration)\\
-  *University of York &bull; 2018--2019*\\
+  *University of York &bull; 2021--2022*\\
   Provide support and assistance to third-year students during computational quantum mechanics sessions.
 * **Computational Laboratory** (Stage 2 --- Practical Demonstration)\\
-  *University of York &bull; 2018--2019*\\
+  *University of York &bull; 2020--2021*\\
   Supervised, guided, and assisted students develop various programs for
   physical simulation, in Fortran, during second-year computational laboratory.
 * **Problem Class Teaching**\\
