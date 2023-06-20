@@ -9,12 +9,11 @@ header:
 --- 
 
 ## Email
-* **Science and academic stuff:**
-  [elliot.chan@york.ac.uk](mailto:elliot.chan@york.ac.uk)
+[elliot.chan@york.ac.uk](mailto:elliot.chan@york.ac.uk)
 
 <div class="flex-container" markdown="block">
 <div class="flex-column-left" markdown="block">
-## Post or real life
+## Address
 
 Elliot W. Chan\\
 Room GEN3/006\\

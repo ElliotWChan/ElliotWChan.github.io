@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
-title: "DNA bending proteins vs supercoiling"
 subheadline: "Publications"
-meta_teaser: "Diversification of DNA-Binding Specificity by Permissive and Specificity-Switching Mutations in the ParB/Noc Protein Family"
+title: "DNA bending proteins vs supercoiling"
 teaser: "Watson et al. investigate the active role DNA can play in protein-DNA interactions via supercoiling and how it affects how IHF plays it's architectural roles."
 header:
     image: IHF.png
@@ -13,8 +12,6 @@ image:
     homepage: IHF.png
     caption: 
     caption_url: 
-categories:
-    - publications
 ---
 <!--more-->
 
