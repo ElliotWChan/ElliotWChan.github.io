@@ -104,14 +104,14 @@
 		
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
-    <ul class="title-area">
-      <li class="name">
-      <h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> Elliot Chan</a></h1>
+	<ul class="title-area">
+	  <li class="name">
+	  <!--<h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> Elliot Chan</a></h1>-->
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
+	  <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span></span></a></li>
     </ul>
-    <section class="top-bar-section">
+	<section class="top-bar-section">
 
       <ul class="left">
         

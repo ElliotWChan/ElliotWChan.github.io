@@ -1,11 +1,16 @@
 ---
 layout: page-fullwidth
 title: "CV"
-teaser: "Why you should(n't) hire me"
+teaser: ""
 permalink: "/CV/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
+
+# Employment
+* **Research Assiociate**\\
+  *University of Bristol &bull; 2023*\\
+  **Supervisor:** Marc van der Kamp
 
 # Education
 

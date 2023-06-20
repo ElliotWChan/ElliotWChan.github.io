@@ -11,18 +11,21 @@ widget1:
   title: "Research Highlights"
   url: '/blog/'
   image: widget-1-302x182.jpg
-  text: 'You can find a list of my research interests and publications here.'
+  text: 'I am primarily interested in how physics-based simulation can be
+applied to study biology phenomena. You can find a list of my research interests and publications here.'
 widget2:
+  title: "Me"
+  url: '/CV/'
+  image: me.jpg
+  text: 'I am a scientist, finishing my PhD in biophysics at the University of
+York focused on DNA topology and architectural proteins, now working as a postdoc at the University of Bristol .'
+widget3:
   title: "Molecular Simulation"
   url: 'https://en.wikipedia.org/wiki/Molecular_dynamics'
-  text: 'Most of the work I do involved computational simulations, here is a
-personal favourite example of the technique.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'Most of the work I do involved computational simulations. Here is a
+personal favourite example of the technique, using it to investigate DNA
+supercoiling done by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="images/dancingdna.png" width="302" height="182" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -44,7 +47,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="//www.youtube.com/embed/watch?v=fJ4JMXkQzoA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJ4JMXkQzoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>

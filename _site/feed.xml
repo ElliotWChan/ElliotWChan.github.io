@@ -26,7 +26,8 @@
 
     &lt;p&gt;The integration host factor (IHF) is a prominent example of indirect readout as it imposes one of the strongest bends on relaxed linear DNA. However, the relation between IHF and torsionally constrained DNA, as occurs physiologically, remains unclear. By using atomistic molecular dynamics simulations on DNA minicircles, we reveal, for the first time, the reciprocal influence between a DNA-bending protein and supercoiling. While the increased curvature of supercoiled DNA enhances wrapping around IHF, the protein pins the position of plectonemes, organizing the topology of the loop in a unique and specific manner. In addition, IHF restrains under- or overtwisted DNA depending on whether the complex is formed in negatively or positively supercoiled DNA. This effectively enables IHF to become a ‘supercoiling buffer’ that dampens changes in the surrounding superhelical stress through DNA breathing around the protein or complex dissociation. We finally provide evidence of DNA bridging by IHF and reveal that these bridges divide DNA into independent topological domains. We anticipate that the crosstalk detected here between the ‘active’ DNA and the multifaceted IHF could be common to other DNA-protein complexes relying on the deformation of DNA.&lt;/p&gt;
 
-    &lt;p&gt;GD Watson, EW Chan, MC Leake, A Noy (2022) “Structural interplay between DNA-shape protein recognition and supercoiling: the case of IHF” Comput Struct Biotech J, 20, 5264-5274 https://doi.org/10.1016/j.csbj.2022.09.020&lt;/p&gt;
+    &lt;p&gt;GD Watson, EW Chan, MC Leake, A Noy (2022) “Structural interplay between DNA-shape protein recognition and supercoiling: the case of IHF” Comput Struct Biotech J, 20, 5264-5274 &lt;a href=&quot;https://doi.org/10.1016/j.csbj.2022.09.020&quot;&gt;doi:10.1016/j.csbj.2022.09.020&lt;/a&gt;&lt;/p&gt;
+
   &lt;/div&gt;&lt;/div&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/publications/IHFSupercoiling/</guid>
@@ -50,7 +51,8 @@
 
     &lt;p&gt;Specific interactions between proteins and DNA are essential to many biological processes. Yet, it remains unclear how the diversification in DNA-binding specificity was brought about, and the mutational paths that led to changes in specificity are unknown. Using a pair of evolutionarily related DNA-binding proteins, each with a different DNA preference (ParB [Partitioning Protein B] and Noc [Nucleoid Occlusion Factor], which both play roles in bacterial chromosome maintenance), we show that specificity is encoded by a set of four residues at the protein-DNA interface. Combining X-ray crystallography and deep mutational scanning of the interface, we suggest that permissive mutations must be introduced before specificity-switching mutations to reprogram specificity and that mutational paths to new specificity do not necessarily involve dual-specificity intermediates. Overall, our results provide insight into the possible evolutionary history of ParB and Noc and, in a broader context, might be useful for understanding the evolution of other classes of DNA-binding proteins.&lt;/p&gt;
 
-    &lt;p&gt;ASB Jalal, NT Tran, CE Stevenson, EW Chan, RL, Xiao Tan, A Noy, DM Lawson, TBK Le (2020). “Diversification of DNA-binding specificity via permissive and specificity-switching mutations in the ParB/Noc protein family” Cell Reports, 32, 107928. https://doi.org/10.1016/j.celrep.2020.107928&lt;/p&gt;
+    &lt;p&gt;ASB Jalal, NT Tran, CE Stevenson, EW Chan, RL, Xiao Tan, A Noy, DM Lawson, TBK Le (2020). “Diversification of DNA-binding specificity via permissive and specificity-switching mutations in the ParB/Noc protein family” Cell Reports, 32, 107928. &lt;a href=&quot;https://doi.org/10.1016/j.celrep.2020.107928&quot;&gt;doi:10.1016/j.celrep.2020.107928&lt;/a&gt;&lt;/p&gt;
+
   &lt;/div&gt;&lt;/div&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/publications/evolution/</guid>
