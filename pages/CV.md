@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page-fullwidth-cv
 title: "CV"
 teaser: ""
 permalink: "/CV/"
