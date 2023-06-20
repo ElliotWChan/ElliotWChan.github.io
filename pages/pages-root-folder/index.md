@@ -18,7 +18,7 @@ widget2:
   url: '/CV/'
   image: me.jpg
   text: 'I am a scientist, finishing my PhD in biophysics at the University of
-York focused on DNA topology and architectural proteins, now working as a postdoc at the University of Bristol .'
+York focused on DNA topology and architectural proteins, now working as a postdoc at the University of Bristol.'
 widget3:
   title: "Molecular Simulation"
   url: 'https://en.wikipedia.org/wiki/Molecular_dynamics'
