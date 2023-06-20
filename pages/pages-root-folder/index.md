@@ -12,7 +12,7 @@ widget1:
   url: '/blog/'
   image: protein.png
   text: 'I am primarily interested in how physics-based simulation can be
-applied to study biology phenomena. You can find a list of my research interests and publications here.'
+applied to study biological phenomena. You can find a list of my research interests and publications here.'
 widget2:
   title: "Me"
   url: '/CV/'
@@ -22,7 +22,7 @@ York focused on DNA topology and architectural proteins, now working as a postdo
 widget3:
   title: "Molecular Simulation"
   url: 'https://en.wikipedia.org/wiki/Molecular_dynamics'
-  text: 'Most of the work I do involved computational simulations. Here is a
+  text: 'Most of the work I do involves computational simulations. Here is a
 personal favourite example of the technique, using it to investigate DNA
 supercoiling done by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="images/dancingdna.png" width="300" height="375" alt=""/></a>'
