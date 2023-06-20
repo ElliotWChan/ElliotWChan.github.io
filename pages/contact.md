@@ -5,7 +5,7 @@ meta_title          : "Contact"
 teaser              : "Get in touch with me?"
 permalink           : "/contact/"
 header:
-   image_fullwidth: "MGCLsquare.png"
+   image_fullwidth: "square.png"
 --- 
 
 ## Email

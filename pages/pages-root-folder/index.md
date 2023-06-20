@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: MGCLsquare.png
+  image_fullwidth: square.png
 widget1:
   title: "Research Highlights"
   url: '/blog/'
