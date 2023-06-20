@@ -4,7 +4,7 @@ title: "CV"
 teaser: ""
 permalink: "/CV/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "MGCLsquare.png"
 ---
 
 # Employment
