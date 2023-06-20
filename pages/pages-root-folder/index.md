@@ -25,7 +25,7 @@ widget3:
   text: 'Most of the work I do involved computational simulations. Here is a
 personal favourite example of the technique, using it to investigate DNA
 supercoiling done by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="images/dancingdna.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="images/dancingdna.png" width="300" height="375" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
