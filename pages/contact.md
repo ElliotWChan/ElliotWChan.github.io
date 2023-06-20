@@ -1,8 +1,7 @@
 ---
 layout              : page
 title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
+meta_title          : "Contact"
 teaser              : "Get in touch with me?"
 permalink           : "/contact/"
 --- 
@@ -10,8 +9,6 @@ permalink           : "/contact/"
 ## Email
 * **Science and academic stuff:**
   [elliot.chan@york.ac.uk](mailto:elliot.chan@york.ac.uk)
-* **Spam or other:**
-  Please don't contact me
 
 <div class="flex-container" markdown="block">
 <div class="flex-column-left" markdown="block">
