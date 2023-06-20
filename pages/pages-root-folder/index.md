@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: banner.png
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Research Highlights"
   url: '/blog/'
