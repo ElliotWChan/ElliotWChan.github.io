@@ -9,7 +9,6 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-<div class="small-9 columns">
 
 {% comment %}
 *
@@ -17,17 +16,21 @@ format: frontpage
 *
 {% endcomment %}
 <div class="row t60">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
+
+    {% if page.widget3.image or page.widget3.video or page.widget3.title %}
+        {% include _frontpage-widget.html widget=page.widget3 %}
+    {% endif %}
 
 	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
 		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
 
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
+
+        {% if page.widget1.image or page.widget1.video or page.widget1.title %}
+            <div class="medium-4 columns t0">
+        {% include _sidebarhome.html %}
+    </div><!-- /.medium-5.columns -->
+    {% endif %}
 </div><!-- /.row -->
 
 
@@ -110,8 +113,4 @@ format: frontpage
 <div class="row">
     {{ content }}
 </div><!-- /.row -->
-</div>
 
-    <div class="small-3 columns t60">
-        {% include _sidebarhome.html %}
-    </div><!-- /.medium-5.columns -->

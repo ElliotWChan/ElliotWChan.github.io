@@ -52,19 +52,4 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-{::nomarkdown}
-<div class="flex-column-center twitter-embed">
-  <h2>Tweets</h2>
-  <a class="twitter-timeline" data-width="600" data-tweet-limit="3"
-      data-link-color="#30b7f3" data-chrome="noheader nofooter noborders"
-      href="https://twitter.com/ElliotWChan?ref_src=twsrc%5Etfw">
-    Tweets by ElliotWChan</a>
-  <script async src="https://platform.twitter.com/widgets.js">
-  </script>
-  <p>
-    <a href="https://twitter.com/ElliotWChan">
-      @ElliotWChan
-    </a>
-  </p>
-</div>
-{:/}
+
