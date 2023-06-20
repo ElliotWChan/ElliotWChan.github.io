@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Research Highlights"
   url: '/blog/'
-  image: widget-1-302x182.jpg
+  image: me2.jpg
   text: 'I am primarily interested in how physics-based simulation can be
 applied to study biology phenomena. You can find a list of my research interests and publications here.'
 widget2:
