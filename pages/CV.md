@@ -25,6 +25,8 @@ header:
   "Single ion plasma simulation applying multiple different magnetic confinement techniques"
 
 # Funding and Awards
+ * **Royce Equipment Access Scheme**,\\
+  *Royce Discovery Centre, University of Sheffield &bull; October 2022*
  * **W.W. Smith Scholarship**,\\
   *University of York &bull; September 2021*
  * **Royce Equipment Access Scheme**,\\
