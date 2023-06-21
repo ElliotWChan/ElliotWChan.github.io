@@ -9,8 +9,11 @@ header:
 
 # Employment
 * **Research Assiociate**\\
-  *University of Bristol &bull; 2023*\\
+  *University of Bristol &bull; 2023 --- Present*\\
   **Supervisor:** Marc van der Kamp
+
+* **Web and Digital Support Developer**\\
+  *Physics of Life Network &bull; Feb 2023 --- Aug 2023*
 
 # Education
 
