@@ -68,19 +68,50 @@
 &lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
     &lt;div class=&quot;panel radius&quot;&gt;
       &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-molecular-dynamics&quot; id=&quot;markdown-toc-what-is-molecular-dynamics&quot;&gt;What is Molecular Dynamics?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-does-it-work&quot; id=&quot;markdown-toc-how-does-it-work&quot;&gt;How does it work?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
     &lt;/div&gt;
   &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
 
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
-    &lt;p&gt;Specific interactions between proteins and DNA are essential to many biological processes. Yet, it remains unclear how the diversification in DNA-binding specificity was brought about, and the mutational paths that led to changes in specificity are unknown. Using a pair of evolutionarily related DNA-binding proteins, each with a different DNA preference (ParB [Partitioning Protein B] and Noc [Nucleoid Occlusion Factor], which both play roles in bacterial chromosome maintenance), we show that specificity is encoded by a set of four residues at the protein-DNA interface. Combining X-ray crystallography and deep mutational scanning of the interface, we suggest that permissive mutations must be introduced before specificity-switching mutations to reprogram specificity and that mutational paths to new specificity do not necessarily involve dual-specificity intermediates. Overall, our results provide insight into the possible evolutionary history of ParB and Noc and, in a broader context, might be useful for understanding the evolution of other classes of DNA-binding proteins.&lt;/p&gt;
+    &lt;h2 id=&quot;what-is-molecular-dynamics&quot;&gt;What is Molecular Dynamics?&lt;/h2&gt;
 
-    &lt;p&gt;ASB Jalal, NT Tran, CE Stevenson, EW Chan, RL, Xiao Tan, A Noy, DM Lawson, TBK Le (2020). “Diversification of DNA-binding specificity via permissive and specificity-switching mutations in the ParB/Noc protein family” Cell Reports, 32, 107928. &lt;a href=&quot;https://doi.org/10.1016/j.celrep.2020.107928&quot;&gt;doi:10.1016/j.celrep.2020.107928&lt;/a&gt;&lt;/p&gt;
-
+    &lt;h1 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h1&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/MD/</guid>
+			</item>
+		
+			<item>
+				<title>Atomic Force Microscopy</title>
+				<link>http://localhost:4000/AFM/</link>
+				<pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+				<description>&lt;!--more--&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-atomic-force-microscopy&quot; id=&quot;markdown-toc-what-is-atomic-force-microscopy&quot;&gt;What is Atomic Force Microscopy?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-does-it-work&quot; id=&quot;markdown-toc-how-does-it-work&quot;&gt;How does it work?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;what-is-atomic-force-microscopy&quot;&gt;What is Atomic Force Microscopy?&lt;/h2&gt;
+
+    &lt;h1 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h1&gt;
+  &lt;/div&gt;&lt;/div&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/AFM/</guid>
 			</item>
 		
 	</channel>
