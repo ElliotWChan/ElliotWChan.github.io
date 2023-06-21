@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Elliot Chan</title>
-	<updated>2023-06-21T00:45:37+01:00</updated>
+	<updated>2023-06-21T13:27:49+01:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -143,6 +143,17 @@
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
     &lt;h2 id=&quot;what-is-molecular-dynamics&quot;&gt;What is Molecular Dynamics?&lt;/h2&gt;
+    &lt;p&gt;Molecular dynamics (MD) is a computational approach for studying the motion of a
+over time. At a base level, it can be explained in just a few steps:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Obtain initial atomic coordinates&lt;/li&gt;
+      &lt;li&gt;Randomly assign a velocity to each atom such that total kinetic energy agrees with the desired temperature&lt;/li&gt;
+      &lt;li&gt;Calculate the force on each atom&lt;/li&gt;
+      &lt;li&gt;Use Newton’s second law to calculate each atom’s acceleration&lt;/li&gt;
+      &lt;li&gt;Calculate velocities for the next timestep&lt;/li&gt;
+      &lt;li&gt;Repeat from step 3 until desired simulation time has run&lt;/li&gt;
+    &lt;/ol&gt;
 
     &lt;h1 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h1&gt;
   &lt;/div&gt;&lt;/div&gt;
@@ -188,7 +199,7 @@
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
     &lt;h2 id=&quot;what-is-atomic-force-microscopy&quot;&gt;What is Atomic Force Microscopy?&lt;/h2&gt;
-
+    &lt;p&gt;Atomic force microscopy (AFM)&lt;/p&gt;
     &lt;h1 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h1&gt;
   &lt;/div&gt;&lt;/div&gt;
 </content>
