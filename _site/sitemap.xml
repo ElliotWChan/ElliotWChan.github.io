@@ -7,7 +7,7 @@
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/CV/</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,7 +54,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -165,7 +165,7 @@
 	<url>
 	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,7 +180,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2023-06-21T15:08:38+01:00</lastmod>
+		<lastmod>2023-06-21T15:16:14+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -198,7 +198,7 @@
 	
 
 
-<!-- Posts: 4 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 5 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
@@ -220,6 +220,21 @@
 	<loc>http://localhost:4000/evolution/</loc>
 	
 		<lastmod>2020-07-21T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/VMD/</loc>
+	
+		<lastmod>2000-01-01T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Elliot Chan</title>
-	<updated>2023-06-21T15:08:38+01:00</updated>
+	<updated>2023-06-21T15:16:14+01:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -107,6 +107,55 @@
 			
 
 			<published>2020-07-21T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/VMD/</id>
+			<title>VMD</title>
+			<link href="http://localhost:4000/VMD/" rel="alternate" type="text/html" title="VMD" />
+			<updated>2000-01-01T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Elliot Chan</name>
+					
+					
+					
+				</author>
+			
+			<summary>A quick guide to how I take nice VMD pictures</summary>
+			<content type="html" xml:base="http://localhost:4000/VMD/">&lt;!--more--&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#visual-molecular-dynamics&quot; id=&quot;markdown-toc-visual-molecular-dynamics&quot;&gt;Visual Molecular Dynamics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;visual-molecular-dynamics&quot;&gt;Visual Molecular Dynamics&lt;/h2&gt;
+    &lt;p&gt;VMD is a useful program that lets us view what’s going on in our molecular
+dynamics trajectories in a fairly straightforward way. What is less
+straightforward is how to use the program to make nice pictures to represent our
+simulations, so here I wanted to just write a quick guide on how I do this,
+hopefully in a way that should be easy to understand so if you personally
+dislike one of my settings you can change it without needing to change the rest
+of the guide.&lt;/p&gt;
+  &lt;/div&gt;&lt;/div&gt;
+</content>
+
+			
+			
+
+			<published>2000-01-01T00:00:00+00:00</published>
 		</entry>
 	
 		<entry>
