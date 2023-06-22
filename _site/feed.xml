@@ -70,6 +70,9 @@
       &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#visual-molecular-dynamics&quot; id=&quot;markdown-toc-visual-molecular-dynamics&quot;&gt;Visual Molecular Dynamics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#launching-vmd&quot; id=&quot;markdown-toc-launching-vmd&quot;&gt;Launching VMD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#representations&quot; id=&quot;markdown-toc-representations&quot;&gt;Representations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-render-commands&quot; id=&quot;markdown-toc-the-render-commands&quot;&gt;The render commands&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;/div&gt;
@@ -78,13 +81,40 @@
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
     &lt;h2 id=&quot;visual-molecular-dynamics&quot;&gt;Visual Molecular Dynamics&lt;/h2&gt;
-    &lt;p&gt;VMD is a useful program that lets us view what’s going on in our molecular
-dynamics trajectories in a fairly straightforward way. What is less
-straightforward is how to use the program to make nice pictures to represent our
-simulations, so here I wanted to just write a quick guide on how I do this,
-hopefully in a way that should be easy to understand so if you personally
-dislike one of my settings you can change it without needing to change the rest
-of the guide.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ks.uiuc.edu/Research/vmd/&quot;&gt;VMD&lt;/a&gt; is a useful program that lets us 
+view what’s going on in our molecular dynamics trajectories in a fairly 
+straightforward way. What is less straightforward is how to use the program to 
+make nice pictures to represent our simulations, so here I wanted to just write 
+a quick guide on how I do this, hopefully in a way that should be easy to 
+understand so if you personally dislike one of my settings you can change it 
+without needing to change the rest of the guide.&lt;/p&gt;
+
+    &lt;h1 id=&quot;launching-vmd&quot;&gt;Launching VMD&lt;/h1&gt;
+    &lt;p&gt;There’s actually a number of methods to start a simulation in VMD. I tend to use
+the following command:&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vmd -parm7 topology.top -netcdf trajectory.nc
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;Which immediately opens and loads the trajectory file as opposed to going
+through the standard menus.&lt;/p&gt;
+
+    &lt;h1 id=&quot;representations&quot;&gt;Representations&lt;/h1&gt;
+
+    &lt;h1 id=&quot;the-render-commands&quot;&gt;The render commands&lt;/h1&gt;
+
+    &lt;p&gt;Once you have tkconsole open, you need to use the render command. This will be
+slightly different based on how you have VMD installed, I’ve included two
+different examples from my usage here. On my laptop I use:&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;render Tachyon scene.dat &quot;/home/elliot/VMD/vmd-1.9.3/lib/tachyon/tachyon_LINUXAMD64 -aasamples 12 %s -format TGA -res 3840 2160 -o %s.tga&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;On my workstation at the University of York, I use:&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;render Tachyon scene.dat &quot;/opt/york/phys/net/Modules/VMD/1.9.3/1/default/build/tachyon_LINUXAMD64 -aasamples 12 %s -format TGA -res 3840 2160 -o %s.tga&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
   &lt;/div&gt;&lt;/div&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/VMD/</guid>
