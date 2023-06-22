@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: square.png
+  image_fullwidth: dna.png
 widget1:
   title: "Research Highlights"
   url: '/blog/'
