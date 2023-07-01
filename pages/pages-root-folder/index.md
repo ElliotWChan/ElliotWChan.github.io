@@ -8,23 +8,25 @@ layout: frontpage
 header:
   image_fullwidth: square.png
 widget1:
-  title: "Research Highlights"
+  title: "Research"
   url: '/blog/'
   image: protein.png
-  text: 'I am primarily interested in how physics-based simulation can be
-applied to study biological phenomena. You can find a list of my research interests and publications here.'
+  text: 'I am primarily interested in how physics-based simulations can be
+applied to study biological phenomena, and how we can combine these techniques 
+with experiments. You can find a list of my research interests and publications here.'
 widget2:
   title: "Me"
   url: '/CV/'
   image: me.jpg
-  text: 'I am a scientist, finishing my PhD in biophysics at the University of
-York focused on DNA topology and architectural proteins, now working as a postdoc at the University of Bristol.'
+  text: 'Postdoc at the University of Bristol, working on the development
+of Computational Chemistry methods. I am finishing my PhD at the University
+of York, studying DNA topology and architectural proteins.'
 widget3:
-  title: "Molecular Simulation"
+  title: "Methods"
   url: 'https://en.wikipedia.org/wiki/Molecular_dynamics'
   text: 'Most of the work I do involves computational simulations. Here is a
-personal favourite example of the technique, using it to investigate DNA
-supercoiling done by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
+personal favourite example of the technique, where it was used to investigating
+supercoiling in DNA minicircles performed by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="images/dancingdna.png" width="300" height="375" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
