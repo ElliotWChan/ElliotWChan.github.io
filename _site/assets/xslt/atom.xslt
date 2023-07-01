@@ -223,12 +223,13 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Elliot Chan – A Flexible Theme for Jekyll">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Elliot Chan – A Flexible Theme for Jekyll">
+			<!--<a id="logo" href="http://localhost:4000/" title="Elliot Chan – A Flexible Theme for Jekyll">-->
+				<!--<img src="http://localhost:4000/assets/img/" alt="Elliot Chan – A Flexible Theme for Jekyll">-->
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+
 
 
 
