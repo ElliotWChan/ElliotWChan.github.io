@@ -8,7 +8,7 @@ header:
 ---
 
 # Employment
-* **Research Assiociate**\\
+* **Research Associate**\\
   *University of Bristol &bull; 2023 --- Present*\\
   **Supervisor:** Marc van der Kamp
 
