@@ -9,7 +9,7 @@ header:
 
 # Employment
 * **Research Associate**\\
-  *University of Bristol &bull; 2023 --- Present*\\
+  *University of Bristol &bull; 2023 --- March 2025*\\
   **Supervisor:** Marc van der Kamp
 
 * **Web and Digital Support Developer**\\
@@ -18,7 +18,7 @@ header:
 # Education
 
 * **PhD Physics**\\
-  *University of York &bull; 2019--2023 (expected)*\\
+  *University of York &bull; 2019--2023*\\
   **Supervisors:** Agnes Noy, Mark Leake\\
   **Thesis:**
   "Mechanisms Behind Protein-DNA Interactions Unveiled with Molecular Simulation and Atomic Force Microscopy"
@@ -28,6 +28,8 @@ header:
   "Single ion plasma simulation applying multiple different magnetic confinement techniques"
 
 # Funding and Awards
+ * **Physics of Life Network PDRA Pump Priming Call**,\\
+  *Physics of Life Network &bull; April 2024*
  * **Royce Equipment Access Scheme**,\\
   *Royce Discovery Centre, University of Sheffield &bull; October 2022*
  * **W.W. Smith Scholarship**,\\
@@ -79,6 +81,10 @@ header:
 {:#talks}
 
 ### External
+* **[Computational Molecular Sciences 2024](https://warwick.ac.uk/fac/sci/chemistry/chemevents/events/cms2024/)**\\
+  *University of Warwick &bull; September 2024*
+* **[CCPBioSim 10th Annual Conference](https://www.ccpbiosim.ac.uk/newcastle2024)**\\
+  *Newcastle University &bull; July 2024*
 * **[Physics of Life 2023](https://www.physicsoflife.org.uk/physics-of-life-20231.html)**\\
   *Harrogate Convention Centre &bull; March 2023*
 * **Durham BSI ECR Symposium**\\
@@ -101,6 +107,8 @@ header:
 
 ### External
 
+* **[Molecular Simulations for Chemistry](https://www.rsc.org/events/detail/78098/molecular-simulations-for-chemistry)**\\
+  *Royal Society of Chemistry &bull; June 2024*
 * **[BBS Biennial Meeting 2022: from Molecular Machines to Materials](https://nuigalwayschoolofchemistry.clr.events/event/132006:british-biophysical-society-biennial-meeting-2022-from-molecular-machines-to-materials)**\\
   *NUI Galway &bull; 29 June -- 01 July 2022*
 * **[Physics of Life Summer School 2022: Interdisciplinary Challenges: from Non-equilibrium Physics to Life Sciences](https://www.physicsoflife.org.uk/physics-of-life-summer-school-2022.html)**\\
