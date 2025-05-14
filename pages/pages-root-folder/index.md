@@ -19,14 +19,14 @@ widget2:
   url: '/CV/'
   image: me.jpg
   text: 'Postdoc at the University of Bristol, working on the development
-of Computational Chemistry methods. I am finishing my PhD at the University
-of York, studying DNA topology and architectural proteins.'
+of Computational Chemistry methods. Previously, I completed my PhD at the 
+University of York studying DNA topology and architectural proteins.'
 widget3:
   title: "Methods"
   url: 'https://en.wikipedia.org/wiki/Molecular_dynamics'
-  text: 'Most of the work I do involves computational simulations. Here is a
-personal favourite example of the technique, where it was used to investigating
-supercoiling in DNA minicircles performed by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
+  text: 'I use biomolecular simulation methods to investigate enzymatic
+reactions and DNA topology, for example here is a simulation of supercoiling in 
+DNA minicircles performed by <a href="https://agnesnoylab.wordpress.com/">Dr. Agnes Noy.</a>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="images/dancingdna.png" width="300" height="375" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage

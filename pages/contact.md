@@ -9,28 +9,23 @@ header:
 --- 
 
 ## Email
-[elliot.chan@york.ac.uk](mailto:elliot.chan@york.ac.uk)
+[elliot.chan@bristol.ac.uk](mailto:elliot.chan@bristol.ac.uk)
 
 <div class="flex-container" markdown="block">
 <div class="flex-column-left" markdown="block">
 ## Address
 
 Elliot W. Chan\\
-Room GEN3/006\\
-Physics of Life Building (Genesis 3)\\
-York Science Park\\
-University of York\\
-York\\
-YO10&nbsp;5DQ
+School of Chemistry\\
+University of Bristol\\
+Cantock's Close, Bristol\\
+BS8&nbsp;1TS
 
 
-[WXX3+5W, Heslington, UK](https://plus.codes/9C5WXX3+5W)
+[F94X+GP, Bristol, UK](https://plus.codes/9C3VF94X+GPP)
 
 </div>
 <div class="flex-column-right google-maps">
-  <iframe width="600" height="450" frameborder="0" style="border:0"
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d587.0213798354853!2d-1.0457321707433505!3d53.94798878802302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTPCsDU2JzUyLjgiTiAxwrAwMic0Mi43Ilc!5e0!3m2!1sen!2suk!4v1576092437353!5m2!1sen!2suk" 
-    allowfullscreen>
-  </iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.0880772867795!2d-2.6002666000000003!3d51.456539299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48718dd997adbe91%3A0x40d7b318bddabb20!2sSchool%20of%20Chemistry%2C%20Senate%20House%2C%20Tyndall%20Ave%2C%20Bristol%20BS8%201TH!5e0!3m2!1sen!2suk!4v1747244547094!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div> 
