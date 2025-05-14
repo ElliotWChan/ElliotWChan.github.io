@@ -9,11 +9,15 @@ header:
 
 # Employment
 * **Research Associate**\\
-  *University of Bristol &bull; 2023 --- March 2025*\\
-  **Supervisor:** Marc van der Kamp
+  *School of Chemistry, University of Bristol &bull; May 2025 --- Present*\\
+  **Line Manager:** Professor. Adrian Mulholland
+
+* **Research Associate**\\
+  *University of Bristol &bull; July 2023 --- March 2025*\\
+  **Line Manager:** Dr. Marc van der Kamp
 
 * **Web and Digital Support Developer**\\
-  *Physics of Life Network &bull; Feb 2023 --- Aug 2023*
+  *Physics of Life Network &bull; February 2023 --- August 2023*
 
 # Education
 
