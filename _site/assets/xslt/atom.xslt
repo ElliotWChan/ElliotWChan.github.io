@@ -148,6 +148,12 @@
           
           
         
+
+              
+
+          
+          
+        
         
       </ul>
       
@@ -161,6 +167,22 @@
 
 
           
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="http://localhost:4000/me/">ME</a></li>
+
+            
+            
           
         
 
