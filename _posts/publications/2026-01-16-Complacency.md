@@ -58,7 +58,7 @@ thinking of turning it down. He said yes.
 I ended up interviewing for a postdoc. The interview almost felt 
 too easy, my three interviewers were very kind, interested in my work, the 
 project I was applying for was (and still is!) incredibly cool and important 
-work. I accepted the job 2 hours later. The next few weeks were the blur. I 
+work. I accepted the job 2 hours later. The next few weeks were a blur. I 
 submitted my thesis, spent 2 weeks living in hotels trying to find a flat, and 
 moved at the start of August. Bristol was not on my radar at all at the start of 
 April, and I find myself still here 2 and a half years later. September 
@@ -167,6 +167,9 @@ I had a nice dinner the other day. Nice person and an easy flowing conversation,
 but over it I realised I am just the first paragraph of this post, too much the
 scientist, not taking enough 'risks', needing to be more open or vulnerable.
 There's only so much I have to say beyond shop talk, it's hard to be personal.
+Improv is showing me it's okay to be bad, to not be preplanning. But talking to
+someone new, and not knowing what to say when my mind goes blank,
+provides an uncomfortable feeling about being bad at something again.
 
 ## Unpausing
 I've been complacent, not so much in a overly proud, smug satisfaction kind of
