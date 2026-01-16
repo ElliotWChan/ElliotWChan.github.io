@@ -4,12 +4,12 @@ subheadline: "Blog"
 title: "Complacency"
 teaser: ""
 header:
-    image: waffle.png
+    image: waffle.jpg
     background-color: "#FFFFFF"
     caption: 
 image:
-    thumb: waffle.png
-    homepage: waffle.png
+    thumb: waffle.jpg
+    homepage: waffle.jpg
     caption: 
     caption_url: 
 ---
