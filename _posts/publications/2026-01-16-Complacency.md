@@ -15,17 +15,6 @@ image:
 ---
 <!--more-->
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 I'm Elliot. I'm 27 years old. I have a PhD in DNA Biophysics. I
 research how enzymes break down antibiotics. I train and compete in
@@ -37,15 +26,12 @@ more to me.
 
 Half my life ago, I set the goal of getting my PhD and doing real science. 
 Around that time, the Large Hadron Collider was coming online and every news
-site was posting about the end of the world. Particle physics seemed like it was 
-everywhere, it was the hot topic. That field didn't really pan out for me. Turns 
-out, particle physics lectures at York weren't nearly as inspiring as all the TV 
-documentaries and books were. 
-
-Regardless, I fell into biophysics via a random meeting with a new PhD student
-in my to-be supervisor's lab. Eventually I had a chance to meet their
-supervisor, and we designed a summer project together. Off the back of that we 
-planned out what my PhD project would be, and here we are nearly 8 years later.
+site was posting about the end of the world. Turns out, particle physics 
+lectures at York weren't nearly as inspiring as all the TV documentaries and 
+books were. Instead, I fell into biophysics via a random meeting with a new PhD
+student. Eventually I met their supervisor, and we designed a summer project 
+together. Off the back of that we planned out what my PhD project would be, and 
+here we are nearly 8 years later.
 
 When I finished my PhD, a 12 year goal had been checked off. It was a huge goal,
 a genuine accomplishment, something I am proud of. The issue is, sometimes you
@@ -63,7 +49,7 @@ weekend I fully moved out of the city I called home for 7 years. I love York, I
 visit often, but I was ready to leave a lot of baggage behind. A new job, moving
 to Bristol, 'moving on', it felt exciting.
 
-And then, Bristol never quite felt like a home for me. Initially I think I was
+But then, Bristol never quite felt like a home for me. Initially I think I was
 resistant because of how huge a change it was, a completely different city to
 York. The uncertainty of my postdoc was not helpful here. Meant to end
 in April 2024, a patchwork of 3-6 month extensions just about kept me
@@ -73,30 +59,30 @@ leave.
 ## On Pause
 
 When I was writing up my PhD thesis, I picked up Olympic Weightlifting. Not
-seriously at the time, my technique was bad, my focus was split, I just needed a
-distraction whilst I finished up. But I enjoyed it nonetheless. It became more
-serious when I moved to Bristol. I got a coach, made all my main friends in
-Bristol through weightlifting, it more or less became my other life. My work was
-my productive lane in life, weightlifting filled out the rest.
-Something structured, with measurable progression whilst everything else felt
-temporary. The numbers I can lift are something I could take away from Bristol,
-who could say if there'd be anything else? My whole 'who am I' became: 
-computational biochemist and weightlifter. Now, in 2026, I can count on one hand 
-the number of people I talk to that aren't from either work or gym.
+seriously at the time, I just needed a distraction whilst I finished up. But I 
+enjoyed it nonetheless. It became more serious when I moved to Bristol. I got a 
+coach, made all my main friends in Bristol through weightlifting, it more or 
+less became my other life. My work was my productive lane in life, weightlifting 
+filled out the rest. Something structured, measurable progression whilst 
+everything else felt temporary. The numbers I can lift are something I could 
+take away from Bristol, who could say if there'd be anything else? My whole 
+'who am I' became: computational biochemist and weightlifter. Now, in 2026, I 
+can count on one hand the number of people I talk to that aren't from either 
+work or gym.
 
 It turns out, it's incredibly easy to be productive in the world you know and 
 complacent in every other aspect. I did throw myself into my research,
 especially once I started in my current lab. It was exciting, I wasn't doing a
 postdoc starting a whole new thing again, I met many new colleagues who I appreciate
-greatly and consider close friends. The research is more fun with more people
-around, and collaborations became easy. In the gym, I would train 5 days a week, 
-had a fun group at my gym Sweatbox, I got good enough to even be attempting to
-qualify for English Senior Champs in 2024, and I found new motivation in 2025 to
-keep pushing myself even if it wasn't to try and get a qualification total. The
-goal was an 80 kg snatch, I hit 81 kg in July. It's another metric I could
-track. Yet the excitement of that type of achievement wears quickly, and without
-the bigger overarching goal, I didn't feel the same attachment snatching 83 or
-84 kg. Ultimately, even my motivation for this sport has been waning day on day.
+greatly and consider good friends. The research is more fun with more people
+around, and collaborations were easy. In the gym, I would train 5 days a week, 
+had a fun group, I even attempted to qualify for English Senior Champs in 2024, 
+and I found new motivation in 2025 to keep pushing myself even if it wasn't to 
+try and get a qualification total. The goal was an 80 kg snatch, I hit 81 kg in 
+July. It's another metric I could track. Yet the excitement of that type of 
+achievement wears quickly, and without the bigger overarching goal, I didn't 
+feel the same attachment snatching 83 or 84 kg. Ultimately, even my motivation 
+for this sport has been waning day on day.
 
 To move to Bristol, I broke up with a (very short term) partner; she 
 was staying in the north for her PhD, but it didn't sting too much as we had 
