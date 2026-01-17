@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Elliot Chan</title>
-	<updated>2026-01-17T02:46:12+00:00</updated>
+	<updated>2026-01-17T11:45:15+00:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -60,8 +60,8 @@
 
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
-    &lt;p&gt;I’m Elliot. I’m 27 years old. I have a PhD in DNA Biophysics. I do
-research studying how enzymes break down antibiotics. I train and compete in
+    &lt;p&gt;I’m Elliot. I’m 27 years old. I have a PhD in DNA Biophysics. I
+research how enzymes break down antibiotics. I train and compete in
 Olympic Weightlifting. I own a 3D printer. And I’m not sure if there’s much
 more to me.&lt;/p&gt;
 
