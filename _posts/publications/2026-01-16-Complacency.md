@@ -80,7 +80,7 @@ Bristol through weightlifting, it more or less became my other life. My work was
 my productive lane in life, weightlifting filled out the rest.
 Something structured, with measurable progression whilst everything else felt
 temporary. The numbers I can lift are something I could take away from Bristol,
-who could say if there'd be anything else? My whole 'who I am' became: 
+who could say if there'd be anything else? My whole 'who am I' became: 
 computational biochemist and weightlifter. Now, in 2026, I can count on one hand 
 the number of people I talk to that aren't from either work or gym.
 
