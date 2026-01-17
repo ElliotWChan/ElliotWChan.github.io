@@ -29,42 +29,23 @@ image:
 
 I'm Elliot. I'm 27 years old. I have a PhD in DNA Biophysics. I do
 research studying how enzymes break down antibiotics. I train and compete in
-Olympic Weightlifting. And I own a 3D printer. And I'm not sure if there's much
+Olympic Weightlifting. I own a 3D printer. And I'm not sure if there's much
 more to me.
 
 
 ## Life's goal
 
-Half my life ago, I set the goal of getting my PhD and doing real science. It
-was around the time the Large Hadron Collider was coming online and every news
-site was posting about the end of the world (but not really). Particle physics
-seemed like it was everywhere, it was the hot topic. That field
-didn't really pan out for me. Turns out, particle physics lectures at York
-weren't nearly as inspiring as all the TV documentaries and books were. 
+Half my life ago, I set the goal of getting my PhD and doing real science. 
+Around that time, the Large Hadron Collider was coming online and every news
+site was posting about the end of the world. Particle physics seemed like it was 
+everywhere, it was the hot topic. That field didn't really pan out for me. Turns 
+out, particle physics lectures at York weren't nearly as inspiring as all the TV 
+documentaries and books were. 
 
 Regardless, I fell into biophysics via a random meeting with a new PhD student
 in my to-be supervisor's lab. Eventually I had a chance to meet their
-supervisor, we designed a summer project together, off the back of that planned 
-out what my PhD project would be, and here we are nearly 8 years later.
-
-At the start of 2023, I was writing my thesis and applying for jobs. I got a
-good offer at a government research lab, a permanent position with decent enough
-career progression, and I'd get to continue my work on biomolecular simulations.
-I guess I was too stuck in my PhD/academia goal, despite how good it was on
-paper I couldn't see myself doing it at the time. The work just wasn't exciting.
-I remember asking my friend, another finishing PhD student, if I was crazy for 
-thinking of turning it down. He said yes.
-
-I ended up interviewing for a postdoc. The interview almost felt 
-too easy, my three interviewers were very kind, interested in my work, the 
-project I was applying for was (and still is!) incredibly cool and important 
-work. I accepted the job 2 hours later. The next few weeks were a blur. I 
-submitted my thesis, spent 2 weeks living in hotels trying to find a flat, and 
-moved at the start of August. Bristol was not on my radar at all at the start of 
-April, and I find myself still here 2 and a half years later. September 
-1<sup>st</sup> I passed my PhD viva, and that weekend I fully moved out of the 
-city I called home for 7 years. I love York, I visit often, but I was ready to 
-leave a lot of baggage behind.
+supervisor, and we designed a summer project together. Off the back of that we 
+planned out what my PhD project would be, and here we are nearly 8 years later.
 
 When I finished my PhD, a 12 year goal had been checked off. It was a huge goal,
 a genuine accomplishment, something I am proud of. The issue is, sometimes you
@@ -73,19 +54,21 @@ have ended up doing a PhD, I imagined this for so long I truly don't think I
 could have done any other route. Now, it feels like I spent too long working on
 that, and not long enough figuring out who I am outside of that.
 
-## Bristol
-Bristol has never quite felt like a home for me. Initially I think I was
+I ended up interviewing for an interesting postdoc position. I accepted the job 
+2 hours later. The next few weeks were a blur. I submitted my thesis, spent 2 
+weeks living in hotels trying to find a flat, and moved at the start of August. 
+Bristol was not on my radar at all at the time, and I find myself still here 2 
+and a half years later. September 1<sup>st</sup> I passed my PhD viva, and that 
+weekend I fully moved out of the city I called home for 7 years. I love York, I 
+visit often, but I was ready to leave a lot of baggage behind. A new job, moving
+to Bristol, 'moving on', it felt exciting.
+
+And then, Bristol never quite felt like a home for me. Initially I think I was
 resistant because of how huge a change it was, a completely different city to
 York. The uncertainty of my postdoc was not helpful here. Meant to end
-in April 2024, a patchwork of multiple 3-6 month extensions just about kept me
-around 11 more months. Throughout this, I remember just a feeling of waiting it
-out until I could leave.
-
-By March 2025 it looked like I was actually, finally, about to be done
-in Bristol. No more funding. Yet by coincidence, my current boss found he had
-some spare funding for 18 months and he was interested in my work. My
-interview was brief, I was offered the job pretty much on the spot, and once 
-again I found myself a Bristol postdoc (until September 2026).
+in April 2024, a patchwork of 3-6 month extensions just about kept me
+around. Throughout this, I just had a feeling of waiting it out until I could 
+leave.
 
 ## On Pause
 
@@ -120,12 +103,12 @@ was staying in the north for her PhD, but it didn't sting too much as we had
 already acknowledged it was going to happen. But this became a theme for my time
 in Bristol - "what's the point? I'm leaving within a year" creates a 
 tidy, convenient shield to not bother with becoming too close with *anyone*. And 
-it worked, I haven't been disappointed, my life and routine are comfortable, but 
+it worked. I haven't been disappointed, my life and routine are comfortable, but 
 I don't know if I gained anything from it either. 
 
-I guess the point of this part of the ramble is, I threw myself fully into the
-only 2 things I knew - work and the gym. I didn't really make time or put in
-effort for other things. And this was burning up by December 2025.
+The point is, I threw myself fully into the only 2 things I knew - work 
+and the gym. I didn't really make time or put in effort for other things. And 
+this was burning up by December 2025.
 
 ## 2026
 Even with my funding up in September, there's a looming possibility that I will
@@ -164,20 +147,22 @@ nothing to hide behind when I'm there. I want my personal life to be more
 than just scientist Elliot out of the lab. It's okay to not have everything 
 preplanned, to just let conversation flow without thinking too much. 
 
-I had a nice dinner the other day. Nice person and an easy flowing conversation,
-but over it I realised I am just the first paragraph of this post, too much the
-scientist, not taking enough 'risks', needing to be more open or vulnerable.
-There's only so much I have to say beyond shop talk, it's hard to be personal.
-Improv is showing me it's okay to be bad, to not be preplanning. But talking to
-someone new, and not knowing what to say when my mind goes blank,
-provides an uncomfortable feeling about being bad at something again.
+Improv is teaching me how to not have a script, but I'm realising how long it
+may take me before I can do that in my life. I had a nice dinner the other day,
+with a genuinely interesting person with whom conversation felt natural
+rather than stilted or forced. Yet I felt stuck using my safe
+topics, stories, science, lifting, because I knew how to talk about those. 
+Once the conversation went beyond those, I could feel my brain freeze up. A
+simple 'what other hobbies do you have?', and I realised I am still just the 
+first paragraph of this post. What I do is easy; who I am is hard. Perhaps the 
+real aim this year is to figure that out.
 
 ## Unpausing
-I've been complacent, not so much in a overly proud, smug satisfaction kind of
-way. But in a risk-averse, unwilling to be vulnerable way. But life doesn't
+I've been complacent, not so much in an overly proud, smug satisfaction kind of
+way, but in a risk-averse, unwilling to be vulnerable way. Life doesn't
 begin and end on grant timelines. Perhaps it was logical to wait until I was in 
 a position where I had longer, but really it just felt safer. I'm now choosing 
-to not wait. Not to say I've fixed anything, just for now I'm choosing not to 
-hide anymore. One day at a time.
+to not wait. Not to say I've fixed anything, but maybe admitting that is
+a first step towards allowing uncertainty back in.
 
 Elliot Weising Chan, *In Prep.*
