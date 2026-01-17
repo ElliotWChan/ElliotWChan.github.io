@@ -144,12 +144,12 @@ preplanned, to just let conversation flow without thinking too much.
 Improv is teaching me how to not have a script, but I'm realising how long it
 may take me before I can do that in my life. I had a nice dinner the other day,
 with a genuinely interesting person with whom conversation felt natural
-rather than stilted or forced. Yet I felt stuck using my safe
-topics, stories, science, lifting, because I knew how to talk about those. 
-Once the conversation went beyond those, I could feel my brain freeze up. A
-simple 'what other hobbies do you have?', and I realised I am still just the 
-first paragraph of this post. What I do is easy; who I am is hard. Perhaps the 
-real aim this year is to figure that out.
+rather than stilted or forced. And yet, I defaulted to my safe topics, stories,
+science, lifting, not because it was an awkward conversation, simply because I 
+wasn't sure how to present myself without those labels. A simple 'what other 
+hobbies do you have?', and I realised I am still just the first paragraph of 
+this post. What I do is easy; who I am is hard. Perhaps the real aim this year 
+is to figure that out.
 
 ## Unpausing
 I've been complacent, not so much in an overly proud, smug satisfaction kind of
