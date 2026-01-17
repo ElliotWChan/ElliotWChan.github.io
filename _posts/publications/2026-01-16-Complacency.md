@@ -113,13 +113,10 @@ this was burning up by December 2025.
 ## 2026
 Even with my funding up in September, there's a looming possibility that I will
 not be leaving Bristol. I am passionate about my work, and there is nowhere
-better in the world to do this research right now. My research has been going
-well, well enough that the insane part of my brain has decided to write 2 
-fellowship applications for May. Beyond that, both of my bosses must also be
-pleased with my work, as both are independently writing up grant applications to
-be submitted this year so I can stay and continue working with them. If any 
-single one of those pans out, then by the time that funding ends, I will be 31 
-(and potentially still end up staying in Bristol). 
+better in the world to do this research right now. There's numerous funding
+streams I or my bosses are applying to right now, if any one of those pans out, 
+then by the time that funding ends, I will be 31 (and potentially still end up 
+staying in Bristol). 
 
 But where does that leave me? I said I'd been on pause since 2023, but
 realistically, it's been much longer. The Covid pandemic and subsequent
