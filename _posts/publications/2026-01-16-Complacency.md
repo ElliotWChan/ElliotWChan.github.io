@@ -136,7 +136,7 @@ big waffle. This year, I went to a bar, drank, and danced with complete
 strangers until 2 am. If you told me even just 3 months ago that's how I'd spend
 my New Year, I wouldn't have believed you. To be honest, I'm not sure where this
 feeling has come from, perhaps just the changing of the year was enough to flip
-a switch for me. Whatever. I'm happy it did.
+a switch for me. 
 
 It feels weird to be writing a reflection of the year so far barely 2 weeks in,
 but I really have done a lot more with myself than in the past, and this almost
